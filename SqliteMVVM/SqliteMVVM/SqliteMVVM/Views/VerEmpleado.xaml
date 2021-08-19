@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             
+             x:Class="SqliteMVVM.Views.VerEmpleado">
+    <ScrollView>
+        <StackLayout>
+
+            <Label Text="Listado de Empleados" HorizontalOptions="Center" TextColor="Green"></Label>
+            <ListView ItemsSource="{Binding ListadoEmpleado1}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label x:Name="lbNombre" Text="{Binding Nombre}"></Label>
+                                <Label x:Name="lbApellido" Text="{Binding Apellido}"></Label>
+                                <Label x:Name="lbEdad" Text="{Binding Edad}"></Label>
+                                <Label x:Name="lbDireccion" Text="{Binding Direccion}" ></Label>
+                                <Label x:Name="lbPuesto" Text="{Binding Puesto}" ></Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

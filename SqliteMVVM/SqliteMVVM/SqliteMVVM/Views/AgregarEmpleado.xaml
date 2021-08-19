@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SqliteMVVM.Views.AgregarEmpleado"
+             >
+
+    <ScrollView>
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Agregar Empleado" VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"  TextColor="White" FontSize="36"/>
+            </Frame>
+            <Entry x:Name="txtnombre" Placeholder="Nombre" Text="{Binding Nombre , Mode=TwoWay}"></Entry>
+            <Entry x:Name="txtapellido" Placeholder="Apellido" Text="{Binding Apellido, Mode=TwoWay}"></Entry>
+            <Entry x:Name="txtedad" Placeholder="Edad" Text="{Binding Edad, Mode=TwoWay}"></Entry>
+            <Entry x:Name="txtdireccion" Placeholder="Direccion" Text="{Binding Direccion, Mode=TwoWay}"></Entry>
+            <Entry x:Name="txtpuesto" Placeholder="Puesto" Text="{Binding Puesto, Mode=TwoWay}"></Entry>
+            <Button x:Name="btnguardar" Text="Guardar" BackgroundColor="Green" TextColor="White" Command="{Binding Guardar}"></Button>
+            <Button x:Name="btnnuevo" Text="Nuevo" BackgroundColor="Green" TextColor="White" Command="{Binding Nuevo}"></Button>
+            <Button x:Name="btnver" Text="Ver" BackgroundColor="Blue" TextColor="White"></Button>
+        </StackLayout>
+
+
+
+
+    </ScrollView>
+
+
+</ContentPage>

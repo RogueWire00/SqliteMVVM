@@ -1,0 +1,17 @@
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\bin\Debug\netstandard2.0\SqliteMVVM.deps.json
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\bin\Debug\netstandard2.0\SqliteMVVM.dll
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\bin\Debug\netstandard2.0\ref\SqliteMVVM.dll
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\bin\Debug\netstandard2.0\SqliteMVVM.pdb
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\obj\Debug\netstandard2.0\SqliteMVVM.csproj.AssemblyReference.cache
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\obj\Debug\netstandard2.0\SqliteMVVM.AssemblyInfoInputs.cache
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\obj\Debug\netstandard2.0\SqliteMVVM.AssemblyInfo.cs
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\obj\Debug\netstandard2.0\SqliteMVVM.csproj.CoreCompileInputs.cache
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\obj\Debug\netstandard2.0\SqliteMVVM.dll
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\obj\Debug\netstandard2.0\ref\SqliteMVVM.dll
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\obj\Debug\netstandard2.0\SqliteMVVM.pdb
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\obj\Debug\netstandard2.0\Views\VerEmpleado.xaml.g.cs
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\obj\Debug\netstandard2.0\Views\EditarEmpleado.xaml.g.cs
+C:\Users\tavit\source\repos\SqliteMVVM\SqliteMVVM\SqliteMVVM\obj\Debug\netstandard2.0\Views\AgregarEmpleado.xaml.g.cs
